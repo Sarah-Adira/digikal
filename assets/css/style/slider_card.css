@@ -1,0 +1,282 @@
+main > div.slider_card {
+  width: 100%;
+  height: 480px;
+  padding: 16px 188px 16px 188px;
+  margin-top: 20px;
+}
+main > div.slider_card > div.card_item {
+  width: 100%;
+  height: 100%;
+  /* background-color: red; */
+  border-radius: 16px;
+  border: 0.6px solid rgb(224, 224, 226);
+}
+main > div.slider_card > div.card_item > div.card_top {
+  width: 100%;
+  height: 67px;
+  padding: 12px 20px;
+}
+main > div.slider_card > div.card_item > div.card_top > div.right > p > a {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: fa;
+  vertical-align: middle;
+  color: black;
+}
+main > div.slider_card > div.card_item > div.card_top > div.right > p > a {
+  border-bottom: 3px solid red;
+}
+main > div.slider_card > div.card_item > div.card_top > div.left {
+  width: 92px;
+  height: 30px;
+  display: inline-block;
+  position: relative;
+  left: -93%;
+  top: -20px;
+}
+main > div.slider_card > div.card_item > div.card_top > div.left > a {
+  width: 92px;
+  height: 30px;
+}
+main > div.slider_card > div.card_item > div.card_top > div.left > a > span {
+  font-size: 12px;
+  font-family: fa;
+  color: rgb(25, 191, 211);
+  vertical-align: middle;
+}
+main > div.slider_card > div.card_item > div.card_top > div.left > a > img {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}
+main > div.slider_card > div.card_item > div.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide {
+  width: 192px !important;
+  height: 359px !important;
+  font-size: 18px;
+  /* background: #653333; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-left: 0.6px solid rgb(224, 224, 226);
+  position: relative;
+  margin-left: 8px;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a {
+  width: 100%;
+  height: 100%;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a
+  > div.pic {
+  width: 150px;
+  height: 150px;
+  margin: 0 12px;
+  position: absolute;
+  top: 50px;
+  right: 12px;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a
+  > div.pic
+  > img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a
+  > div.pic_info {
+  width: 120px;
+  height: 28px;
+  padding: 0 8px;
+  color: rgb(129, 133, 139);
+  position: absolute;
+  top: 300px;
+  right: 12px;
+  vertical-align: middle;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a
+  > div.pic_info
+  > img {
+  width: 15px;
+  height: 15px;
+  vertical-align: middle;
+  display: inline-block;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a
+  > div.pic_info
+  > span {
+  font-size: 10px;
+  font-family: fa;
+  color: rgb(129, 133, 139);
+  vertical-align: middle;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a
+  > div.model {
+  width: 90%;
+  font-size: 12px;
+  font-family: fa;
+  font-weight: 500;
+  position: absolute;
+  top: 250px;
+  right: 12px;
+  color: black;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a
+  > div.rate {
+  width: 20%;
+  font-size: 12px;
+  font-family: fa;
+  position: absolute;
+  top: 300px;
+  right: 140px;
+  color: black;
+  vertical-align: middle;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a
+  > div.rate
+  > img {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  vertical-align: middle;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a
+  > div.rate
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  vertical-align: middle;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a
+  > div.price {
+  width: 90%;
+  height: 40px;
+  font-size: 12px;
+  font-family: fa;
+  font-weight: 500;
+  position: absolute;
+  top: 340px;
+  right: 12px;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a
+  > div.price
+  > span.tag {
+  font-size: 12px;
+  font-family: fa;
+  font-weight: 500;
+  color: rgb(129, 133, 139);
+  position: absolute;
+  right: 60px;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a
+  > div.price
+  > span.tag_price {
+  font-size: 14px;
+  font-family: fa;
+  font-weight: 500;
+  color: black;
+  position: absolute;
+  right: 102px;
+}
+main
+  > div.slider_card
+  > div.card_item
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a
+  > div.price
+  > img {
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  position: absolute;
+  right: 140px;
+}

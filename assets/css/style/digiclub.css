@@ -1,0 +1,332 @@
+main > div.digiclub {
+  width: 100%;
+  height: 96px;
+  padding: 0 160px 0 160px;
+  display: inline-block;
+  margin-top: 40px;
+}
+main > div.digiclub > div.club_items {
+  width: inherit;
+  height: 96px;
+  display: inline-block;
+  background: rgb(10, 230, 235);
+  background: linear-gradient(
+    90deg,
+    rgba(10, 230, 235, 1) 3%,
+    rgba(8, 88, 115, 1) 43%
+  );
+  border-radius: 16px;
+  margin-top: 8px;
+  padding: 12px 16px;
+  align-items: center;
+}
+main > div.digiclub > div.club_items > div.club_logo {
+  width: 119px;
+  height: 33px;
+  margin-right: 24px;
+  display: inline-block;
+  margin-top: 8px;
+  vertical-align: middle;
+}
+main > div.digiclub > div.club_items > div.club_logo > a {
+  width: 119px;
+  height: 33px;
+}
+main > div.digiclub > div.club_items > div.club_logo > a > img {
+  width: 119px;
+  height: 33px;
+}
+main > div.digiclub > div.club_items > div.club_pic {
+  width: 840px;
+  height: 64px;
+  margin-top: 8px;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  left: -310px;
+  border-radius: 16px;
+}
+main > div.digiclub > div.club_items > div.club_pic > div.c_pic1 {
+  width: 274px;
+  height: 64px;
+  display: inline-block;
+  background-color: white;
+  vertical-align: middle;
+  position: relative;
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+main > div.digiclub > div.club_items > div.club_pic > div.c_pic1 > a {
+  width: 274px;
+  height: 64px;
+  display: block;
+  align-items: center;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic1
+  > a
+  > div.pic_info {
+  width: 85px;
+  height: 26px;
+  margin-right: 16px;
+  display: inline-block;
+  position: relative;
+  top: 20px;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic1
+  > a
+  > div.pic_info
+  > div.pic_svg {
+  width: 20px;
+  height: 20px;
+  align-items: center;
+  display: inline-block;
+  vertical-align: bottom;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic1
+  > a
+  > div.pic_info
+  > div.pic_svg
+  > img {
+  width: 20px;
+  height: 20px;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic1
+  > a
+  > div.pic_info
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: black;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic1
+  > a
+  > div.club_img {
+  width: 168px;
+  height: 60px;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  left: -105px;
+  bottom: 23px;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic1
+  > a
+  > div.club_img
+  > img {
+  width: 168px;
+  height: 60px;
+}
+
+main > div.digiclub > div.club_items > div.club_pic > div.c_pic2 {
+  width: 274px;
+  height: 64px;
+  display: inline-block;
+  background-color: white;
+  vertical-align: middle;
+  position: relative;
+}
+main > div.digiclub > div.club_items > div.club_pic > div.c_pic2 > a {
+  width: 274px;
+  height: 64px;
+  display: block;
+  align-items: center;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic2
+  > a
+  > div.pic_info {
+  width: 85px;
+  height: 26px;
+  margin-right: 16px;
+  display: inline-block;
+  position: relative;
+  top: 20px;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic2
+  > a
+  > div.pic_info
+  > div.pic_svg {
+  width: 20px;
+  height: 20px;
+  align-items: center;
+  display: inline-block;
+  vertical-align: bottom;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic2
+  > a
+  > div.pic_info
+  > div.pic_svg
+  > img {
+  width: 20px;
+  height: 20px;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic2
+  > a
+  > div.pic_info
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: black;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic2
+  > a
+  > div.club_img {
+  width: 168px;
+  height: 60px;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  left: -105px;
+  bottom: 23px;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic2
+  > a
+  > div.club_img
+  > img {
+  width: 168px;
+  height: 60px;
+}
+
+main > div.digiclub > div.club_items > div.club_pic > div.c_pic3 {
+  width: 274px;
+  height: 64px;
+  display: inline-block;
+  background-color: white;
+  vertical-align: middle;
+  position: relative;
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+}
+main > div.digiclub > div.club_items > div.club_pic > div.c_pic3 > a {
+  width: 274px;
+  height: 64px;
+  display: block;
+  align-items: center;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic3
+  > a
+  > div.pic_info {
+  width: 85px;
+  height: 26px;
+  margin-right: 16px;
+  display: inline-block;
+  position: relative;
+  top: 20px;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic3
+  > a
+  > div.pic_info
+  > div.pic_svg {
+  width: 20px;
+  height: 20px;
+  align-items: center;
+  display: inline-block;
+  vertical-align: bottom;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic3
+  > a
+  > div.pic_info
+  > div.pic_svg
+  > img {
+  width: 20px;
+  height: 20px;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic3
+  > a
+  > div.pic_info
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: black;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic3
+  > a
+  > div.club_img {
+  width: 168px;
+  height: 60px;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  left: -105px;
+  bottom: 23px;
+}
+main
+  > div.digiclub
+  > div.club_items
+  > div.club_pic
+  > div.c_pic3
+  > a
+  > div.club_img
+  > img {
+  width: 160px;
+  height: 60px;
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+}

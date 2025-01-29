@@ -1,0 +1,194 @@
+main > div.best_sailer {
+  width: 100%;
+  height: 403px;
+  padding: 0 160px 0 160px;
+  display: inline-block;
+  margin-top: 20px;
+}
+main > div.best_sailer > div.best_items {
+  width: inherit;
+  height: 403px;
+  display: inline-block;
+  border-radius: 16px;
+  border: 0.6px solid rgb(224, 224, 226);
+  padding: 16px 0;
+  align-items: center;
+}
+main > div.best_sailer > div.best_items > div.best_top {
+  width: 100%;
+  height: 44px;
+  padding: 0 20px;
+}
+main > div.best_sailer > div.best_items > div.best_top > div.center {
+  width: 210px;
+  height: 44px;
+  display: inline-block;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  left: -530px;
+}
+main > div.best_sailer > div.best_items > div.best_top > div.center > div.svg {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+main
+  > div.best_sailer
+  > div.best_items
+  > div.best_top
+  > div.center
+  > div.svg
+  > img {
+  width: 24px;
+  height: 24px;
+}
+main > div.best_sailer > div.best_items > div.best_top > div.center > p {
+  display: inline-block;
+  font-size: 21px;
+  font-weight: 500;
+  font-family: fa;
+  vertical-align: middle;
+}
+main > div.best_sailer > div.best_items > div.best_top > div.left {
+  width: 92px;
+  height: 30px;
+  display: inline-block;
+  position: relative;
+  left: -960px;
+}
+main > div.best_sailer > div.best_items > div.best_top > div.left > a {
+  width: 92px;
+  height: 30px;
+}
+main > div.best_sailer > div.best_items > div.best_top > div.left > a > span {
+  font-size: 16px;
+  font-family: fa;
+  color: rgb(25, 191, 211);
+}
+main > div.best_sailer > div.best_items > div.best_bottom {
+  width: 100%;
+  height: 298px;
+  margin-top: 28px;
+  padding: 0 8px;
+}
+
+main > div.best_sailer > div.best_items > div.best_bottom >.swiper {
+  width: 100%;
+  height: 100%;
+}
+main > div.best_sailer > div.best_items > div.best_bottom >.swiper-slide {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.swiper-slide >div.item{
+  width: 100%;
+  height: 100%;
+}
+.swiper-slide >div.item>.row1{
+  width: 100%;
+  height: 86px;
+  border-bottom: 0.6px solid rgb(224, 224, 226);
+  margin-bottom: 8px;
+}
+.swiper-slide >div.item>div.row1>a{
+  width: 100%;
+  height: 86px;
+  display: block;
+}
+.swiper-slide >div.item>div.row1>a>div.row_pic{
+  width: 86px;
+  height: 86px;
+  display: inline-block;
+  margin-left: 12px;
+}
+.swiper-slide >div.item>div.row1>a>div.row_pic>img{
+  width: 86px;
+  height: 86px;
+}
+.swiper-slide >div.item>div.row1>a>span{
+  height: 86px;
+  font-size: 2.6rem;
+  font-family: fa;
+  font-weight: 800;
+  color: rgb(25, 191, 211);
+  margin-left: 12px;
+  line-height: 86px;
+  display: inline-block;
+  vertical-align: top;
+}
+.swiper-slide >div.item>div.row1>a>div.row_info{
+  width: 160px;
+  height: 86px;
+  display: inline-block;
+  vertical-align: top;
+}
+.swiper-slide >div.item>div.row1>a>div.row_info>p{
+  width: 160px;
+  height: 86px;
+  display: inline-block;
+  padding: 30px 0;
+  font-size: 12px;
+  font-family: fa;
+  color: rgb(71, 70, 70);
+}
+.swiper-slide >div.item>.row2{
+  width: 100%;
+  height: 86px;
+  margin-bottom: 8px;
+}
+.swiper-slide >div.item>div.row2>a{
+  width: 100%;
+  height: 86px;
+  display: block;
+}
+.swiper-slide >div.item>div.row2>a>div.row_pic{
+  width: 86px;
+  height: 86px;
+  display: inline-block;
+  margin-left: 12px;
+}
+.swiper-slide >div.item>div.row2>a>div.row_pic>img{
+  width: 86px;
+  height: 86px;
+}
+.swiper-slide >div.item>div.row2>a>span{
+  height: 86px;
+  font-size: 2.6rem;
+  font-family: fa;
+  font-weight: 800;
+  color: rgb(25, 191, 211);
+  margin-left: 12px;
+  line-height: 86px;
+  display: inline-block;
+  vertical-align: top;
+}
+.swiper-slide >div.item>div.row2>a>div.row_info{
+  width: 150px;
+  height: 86px;
+  display: inline-block;
+  vertical-align: top;
+}
+.swiper-slide >div.item>div.row2>a>div.row_info>p{
+  width: 160px;
+  height: 86px;
+  display: inline-block;
+  padding: 30px 0;
+  font-size: 12px;
+  font-family: fa;
+  color: rgb(71, 70, 70);
+}
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

@@ -1,0 +1,154 @@
+main > div.cmahsool {
+  width: 100%;
+  height: 294px;
+  padding: 0 160px 0 160px;
+  text-align: center;
+  align-items: center;
+  vertical-align: middle;
+}
+main > div.cmahsool > div.mahsool_items {
+  width: inherit;
+  height: 294px;
+  border-radius: 16px;
+  background-color: red;
+}
+div.cmahsool div.mahsool_items .swiper {
+  width: 100%;
+  height: 280px;
+  padding: 20px;
+}
+div.cmahsool div.mahsool_items .swiper-slide1 {
+  width: 160px;
+  height: 254px;
+  margin-left: 4px;
+  text-align: center;
+  font-size: 18px;
+  background: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div.cmahsool div.mahsool_items .swiper-slide1 a {
+  width: 254px;
+  height: 100%;
+  display: block;
+  padding: 8px;
+  align-items: center;
+}
+div.cmahsool div.mahsool_items .swiper-slide1 img.pic1 {
+  display: block;
+  width: 88px;
+  height: 88px;
+  object-fit: cover;
+  margin-top: 4px;
+  margin-right: 25px;
+}
+div.cmahsool div.mahsool_items .swiper-slide1 img.pic2 {
+  display: block;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  padding-top: 20px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+div.cmahsool div.mahsool_items .swiper-slide1 a span {
+  color: white;
+  font-size: 12px;
+  font-family: fa;
+}
+div.cmahsool div.mahsool_items div.swiper-slide {
+  width: 160px;
+  height: 254px;
+  margin-left: 4px;
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+}
+
+div.cmahsool div.mahsool_items .swiper-slide a {
+  width: 144px;
+  height: 254px;
+  display: block;
+  padding: 8px;
+}
+
+div.cmahsool div.mahsool_items .swiper-slide img {
+  display: block;
+  width: 133px;
+  height: 133px;
+  object-fit: cover;
+  object-fit: cover;
+  margin-top: 4px;
+}
+div.cmahsool div.mahsool_items div.swiper-slide a span.model {
+  width: inherit;
+  margin-top: 20px;
+  font-family: irenyekan;
+  font-size: 12px;
+  color: black;
+  display: inline-block;
+}
+div.cmahsool div.mahsool_items div.swiper-slide a div.price {
+  width: 100%;
+  height: 20px;
+  display: inline-block;
+}
+div.cmahsool div.mahsool_items div.swiper-slide a div.price div.p_off {
+  width: 34px;
+  height: 20px;
+  display: inline-block;
+  background-color: red;
+  padding: 0px 4px;
+  border-radius: 16px;
+  text-align: center;
+  align-items: center;
+  vertical-align: middle;
+  position: relative;
+  left: 20px;
+}
+div.cmahsool
+  div.mahsool_items
+  div.swiper-slide
+  a
+  > div.price
+  > div.p_off
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: white;
+  position: relative;
+  bottom: 3px;
+}
+div.cmahsool div.mahsool_items div.swiper-slide a div.price > img {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  left: -30px;
+}
+div.cmahsool div.mahsool_items div.swiper-slide a div.price > span {
+  height: 20px;
+  font-size: 12px;
+  color: black;
+  vertical-align: middle;
+  position: relative;
+  left: -30px;
+}
+div.cmahsool div.mahsool_items div.swiper-slide a div.bottom {
+  width: 100%;
+  height: 20px;
+}
+div.cmahsool div.mahsool_items div.swiper-slide a div.bottom > span {
+  width: 100%;
+  height: 20px;
+  font-size: 12px;
+  color: rgb(112, 112, 112);
+  text-decoration: line-through;
+  margin-right: 50px;
+}

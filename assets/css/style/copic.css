@@ -1,0 +1,47 @@
+main > div.copic {
+  width: 100%;
+  height: 242px;
+  padding: 0 13% 0 13%;
+  /* padding: 0 160px 0 160px; */
+  /* align-items: center; */
+  margin-top: 20px;
+  display: inline-block;
+}
+main > div.copic > div.pic_items {
+  width: inherit;
+  height: 242px;
+  display: inline-block;
+}
+main > div.copic > div.pic_items > a.copic1 {
+  width: 322px;
+  height: 242px;
+  display: inline-block;
+  border-radius: 16px;
+}
+main > div.copic > div.pic_items > a.copic1 > div.pic {
+  width: 322px;
+  height: 242px;
+  border-radius: 16px;
+}
+main > div.copic > div.pic_items > a.copic1 > div.pic > img {
+  width: 322px;
+  height: 242px;
+  border-radius: 16px;
+}
+main > div.copic > div.pic_items > a.copic2 {
+  width: 322px;
+  height: 242px;
+  display: inline-block;
+  border-radius: 16px;
+  margin-right: 8px;
+}
+main > div.copic > div.pic_items > a.copic2 > div.pic {
+  width: 322px;
+  height: 242px;
+  border-radius: 16px;
+}
+main > div.copic > div.pic_items > a.copic2 > div.pic > img {
+  width: 322px;
+  height: 242px;
+  border-radius: 16px;
+}

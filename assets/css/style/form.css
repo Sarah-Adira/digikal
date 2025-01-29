@@ -1,0 +1,35 @@
+form{
+    width: 80%;
+    padding: 70px;
+    background-color: lightcoral;
+    border-radius: 10px;
+    margin: 50px auto;
+}
+label{
+    display: inline-block;
+    margin-bottom: 4px;
+}
+input[type=text],input[type=email],textarea{
+    width: 20%;
+    display: block;
+    margin-bottom: 8px;
+    height: 20px;
+    padding-left: 8px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    transition-duration: 500ms;
+}
+input:focus,textarea:focus{
+    outline: 2px solid red;
+    width: 50%;
+    background-color: lemonchiffon;
+    color: brown;
+}
+input:focus::placeholder{
+    color: chocolate;
+    font-family: fa;
+}
+textarea:focus::placeholder{
+    color: blueviolet;
+}

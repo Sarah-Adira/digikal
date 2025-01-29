@@ -1,0 +1,161 @@
+main > div.khandani {
+  width: 100%;
+  height: 344px;
+  padding: 0 13% 0 13%;
+  margin-top: 20px;
+}
+main > div.khandani > div.khandani_items {
+  width: inherit;
+  height: 344px;
+  border-radius: 16px;
+  border: 0.6 solid rgb(224, 224, 226);
+  align-items: center;
+}
+main > div.khandani > div.khandani_items > div.khandani_top {
+  width: 100%;
+  height: 66px;
+  padding: 16px 20px;
+}
+main > div.khandani > div.khandani_items > div.khandani_top > div.top_right {
+  width: 10%;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  right: 10px;
+  font-size: 16px;
+  font-family: fa;
+}
+main > div.khandani > div.khandani_items > div.khandani_top > div.top_left {
+  width: 20%;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  right: 980px;
+}
+main > div.khandani > div.khandani_items > div.khandani_top > div.top_left > a {
+  width: 100%;
+  height: 100%;
+}
+main
+  > div.khandani
+  > div.khandani_items
+  > div.khandani_top
+  > div.top_left
+  > a
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: rgb(25, 191, 211);
+}
+main
+  > div.khandani
+  > div.khandani_items
+  > div.khandani_top
+  > div.top_left
+  > a
+  > img {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+}
+main > div.khandani > div.khandani_items > div.khandani_bottom {
+  width: 100%;
+  height: 279px;
+}
+main
+  > div.khandani
+  > div.khandani_items
+  > div.khandani_bottom
+  > div.bottom_item {
+  width: 320px;
+  height: 279px;
+  border: 0.6px solid rgb(224, 224, 226);
+  border-radius: 16px;
+  display: inline-block;
+  margin-left: 8px;
+}
+main
+  > div.khandani
+  > div.khandani_items
+  > div.khandani_bottom
+  > div.bottom_item
+  > div.bot_img {
+  width: inherit;
+  height: 201px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+main
+  > div.khandani
+  > div.khandani_items
+  > div.khandani_bottom
+  > div.bottom_item
+  > div.bot_img
+  > img {
+  width: inherit;
+  height: inherit;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+main
+  > div.khandani
+  > div.khandani_items
+  > div.khandani_bottom
+  > div.bottom_item
+  > div.bot_info {
+  width: 100%;
+  height: 52px;
+  padding: 0 16px;
+  margin-top: 8px;
+  margin-bottom: 12px;
+  font-size: 12px;
+  font-family: fa;
+}
+main
+  > div.khandani
+  > div.khandani_items
+  > div.khandani_bottom
+  > div.bottom_item1 {
+  width: 325px;
+  height: 279px;
+  border: 0.6px solid rgb(224, 224, 226);
+  border-radius: 16px;
+  display: inline-block;
+}
+main
+  > div.khandani
+  > div.khandani_items
+  > div.khandani_bottom
+  > div.bottom_item1
+  > div.bot_img {
+  width: inherit;
+  height: 201px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+main
+  > div.khandani
+  > div.khandani_items
+  > div.khandani_bottom
+  > div.bottom_item1
+  > div.bot_img
+  > img {
+  width: inherit;
+  height: inherit;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+main
+  > div.khandani
+  > div.khandani_items
+  > div.khandani_bottom
+  > div.bottom_item1
+  > div.bot_info {
+  width: 100%;
+  height: 52px;
+  padding: 0 16px;
+  margin-top: 8px;
+  margin-bottom: 12px;
+  font-size: 12px;
+  font-family: fa;
+}

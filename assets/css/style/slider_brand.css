@@ -1,0 +1,83 @@
+main > div.slider_brand {
+  width: 100%;
+  height: 224px;
+  padding: 0 160px 0 160px;
+  align-items: center;
+  vertical-align: middle;
+  margin-top: 20px;
+}
+main > div.slider_brand > div.brand_items {
+  width: inherit;
+  height: 224px;
+  border-radius: 16px;
+  border: 0.6px solid rgb(224, 224, 226);
+  /* background-color: red; */
+}
+main > div.slider_brand > div.brand_items > div.title {
+  width: 100%;
+  height: 44px;
+  text-align: center;
+  align-items: center;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+main > div.slider_brand > div.brand_items > div.title > div.ticon {
+  width: 24px;
+  height: 24px;
+  margin-left: 8px;
+  display: inline-block;
+  vertical-align: top;
+}
+main > div.slider_brand > div.brand_items > div.title > div.ticon > img {
+  width: 24px;
+  height: 24px;
+}
+main > div.slider_brand > div.brand_items > div.title > p {
+  font-size: 21px;
+  font-weight: 500;
+  font-family: fa;
+  display: inline-block;
+}
+main > div.slider_brand > div.brand_items > div.sbrand {
+  width: 100%;
+  height: 118px;
+  margin-top: 22px;
+}
+main > div.slider_brand > div.brand_items > div.sbrand > div.swbrand {
+  width: 100%;
+  height: 118px;
+}
+
+main > div.slider_brand > div.brand_items > div.sbrand > div.swbrand .swiper {
+  width: 100%;
+  height: 100%;
+}
+
+main
+  > div.slider_brand
+  > div.brand_items
+  > div.sbrand
+  > div.swbrand
+  .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 16px;
+  border-right: 0.6px solid rgb(223, 223, 223);
+}
+
+main
+  > div.slider_brand
+  > div.brand_items
+  > div.sbrand
+  > div.swbrand
+  .swiper-slide
+  img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

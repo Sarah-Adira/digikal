@@ -1,0 +1,39 @@
+main > div.bourd {
+    width: 100%;
+    height: 264px;
+    padding: 0 15% 0 15%;
+    display: inline-block;
+  }
+  main > div.bourd > div.img_items {
+    width: inherit;
+    height: 264px;
+    display: inline-block;
+  }
+  main > div.bourd > div.img_items > a {
+    width: 632px;
+    height: 264px;
+    display: inline-block;
+  }
+  main > div.bourd > div.img_items > a > div.img1 {
+    width: 632px;
+    height: 264px;
+    border-radius: 16px;
+  }
+  main > div.bourd > div.img_items > a > div.img1 > img {
+    width: 632px;
+    height: 264px;
+    border-radius: 16px;
+    object-fit: cover;
+  }
+  main > div.bourd > div.img_items > a > div.img2 {
+    width: 632px;
+    height: 264px;
+    border-radius: 16px;
+    margin-left: 16px;
+  }
+  main > div.bourd > div.img_items > a > div.img2 > img {
+    width: 632px;
+    height: 264px;
+    border-radius: 16px;
+    object-fit: cover;
+  }

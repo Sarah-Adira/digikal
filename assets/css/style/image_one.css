@@ -1,0 +1,39 @@
+main > div.coimg {
+  width: 100%;
+  height: 264px;
+  padding: 0 16% 0 16%;
+  display: inline-block;
+}
+main > div.coimg > div.img_items {
+  width: inherit;
+  height: 264px;
+  display: inline-block;
+}
+main > div.coimg > div.img_items > a {
+  width: 660px;
+  height: 264px;
+  display: inline-block;
+}
+main > div.coimg > div.img_items > a > div.img1 {
+  width: 660px;
+  height: 264px;
+  border-radius: 16px;
+}
+main > div.coimg > div.img_items > a > div.img1 > img {
+  width: 660px;
+  height: 264px;
+  border-radius: 16px;
+  object-fit: cover;
+}
+main > div.coimg > div.img_items > a > div.img2 {
+  width: 660px;
+  height: 264px;
+  border-radius: 16px;
+  margin-left: 16px;
+}
+main > div.coimg > div.img_items > a > div.img2 > img {
+  width: 660px;
+  height: 264px;
+  border-radius: 16px;
+  object-fit: cover;
+}

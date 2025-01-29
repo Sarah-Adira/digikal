@@ -1,0 +1,716 @@
+footer {
+  width: 100%;
+  height: 1124px;
+  /* background-color: pink; */
+  margin-top: 48px;
+  border-top: 0.6px solid rgb(240, 240, 241);
+  padding-top: 32px;
+}
+footer > div.foot {
+  width: 100%;
+  height: 100%;
+}
+footer > div.foot > div.foot_items {
+  width: 100%;
+  height: 964px;
+  padding: 0 20px;
+}
+/* Start top */
+footer > div.foot > div.foot_items > div.foot_top {
+  width: 100%;
+  height: 40px;
+  position: relative;
+}
+footer > div.foot > div.foot_items > div.foot_top > div.foot_logo {
+  width: 195;
+  height: 30px;
+  display: inline-block;
+  margin-left: 16px;
+  vertical-align: middle;
+}
+footer > div.foot > div.foot_items > div.foot_top > div.foot_logo > img {
+  width: 195;
+  height: 30px;
+}
+footer > div.foot > div.foot_items > div.foot_top > div.button_up {
+  width: 137px;
+  height: 40px;
+  display: inline-block;
+  padding: 8px 16px;
+  border: 0.6px solid rgb(240, 240, 241);
+  border-radius: 8px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+footer > div.foot > div.foot_items > div.foot_top > div.button_up > a > span {
+  font-size: 12px;
+  font-family: fa;
+  color: rgb(161, 163, 168);
+  line-height: 20px;
+  margin-left: 4px;
+}
+footer > div.foot > div.foot_items > div.foot_top > div.button_up > a > img {
+  width: 20px;
+  vertical-align: middle;
+}
+/* Start info */
+footer > div.foot > div.foot_items > div.foot_info {
+  width: 100%;
+  height: 27px;
+  margin-top: 12px;
+}
+footer > div.foot > div.foot_items > div.foot_info > p {
+  width: 10%;
+  height: 100%;
+  line-height: 27px;
+  font-size: 12px;
+  font-family: fa;
+  display: inline-block;
+  color: rgb(63, 64, 100);
+}
+footer > div.foot > div.foot_items > div.foot_info > p.p2 {
+  width: 4%;
+  height: 100%;
+  line-height: 27px;
+  font-size: 12px;
+  font-family: fa;
+  display: inline-block;
+  color: rgb(63, 64, 100);
+}
+footer > div.foot > div.foot_items > div.foot_info > p.p3 {
+  width: 50%;
+  height: 100%;
+  line-height: 27px;
+  font-size: 12px;
+  font-family: fa;
+  display: inline-block;
+  color: rgb(63, 64, 100);
+}
+footer > div.foot > div.foot_items > div.foot_info > div.space {
+  width: 2px;
+  height: 27px;
+  padding: 0 20px;
+  display: inline-block;
+  color: rgb(161, 163, 168);
+}
+/* Start options */
+footer > div.foot > div.foot_items > div.options {
+  width: 100%;
+  height: 103px;
+  margin: 32px 0;
+}
+footer > div.foot > div.foot_items > div.options > div.option1 {
+  width: 315px;
+  height: 103px;
+  padding: 12px 0;
+  display: inline-block;
+  align-items: center;
+  position: relative;
+}
+footer > div.foot > div.foot_items > div.options > div.option1 > a > div.opimg {
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  right: calc(50% - 56px / 2);
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.options
+  > div.option1
+  > a
+  > div.opimg
+  > img {
+  width: 56px;
+  height: 56px;
+}
+footer > div.foot > div.foot_items > div.options > div.option1 > a > p {
+  width: 130px;
+  font-size: 10px;
+  font-family: fa;
+  color: rgb(63, 64, 100);
+  position: absolute;
+  bottom: 15px;
+  right: calc(55% - 130px / 2);
+}
+/* Start menu */
+footer > div.foot > div.foot_items > div.foot_menu {
+  width: 100%;
+  height: 270px;
+  margin-bottom: 32px;
+}
+footer > div.foot > div.foot_items > div.foot_menu > div.menu1 {
+  width: 415px;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+footer > div.foot > div.foot_items > div.foot_menu > div.menu1 > p {
+  width: 100%;
+  height: 33px;
+  color: rgb(63, 64, 100);
+  font-size: 16px;
+  font-family: fa;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+footer > div.foot > div.foot_items > div.foot_menu > div.menu1 > a {
+  width: 100%;
+  height: 33px;
+  display: block;
+  color: rgb(129, 133, 139);
+  font-size: 14px;
+  font-family: fa;
+  font-weight: 300;
+  margin-bottom: 8px;
+}
+
+footer > div.foot > div.foot_items > div.foot_menu > div.menu2 {
+  width: 415px;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+footer > div.foot > div.foot_items > div.foot_menu > div.menu2 > p {
+  width: 100%;
+  height: 33px;
+  color: rgb(63, 64, 100);
+  font-size: 16px;
+  font-family: fa;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+footer > div.foot > div.foot_items > div.foot_menu > div.menu2 > a {
+  width: 100%;
+  height: 33px;
+  display: block;
+  color: rgb(129, 133, 139);
+  font-size: 14px;
+  font-family: fa;
+  font-weight: 300;
+  margin-bottom: 8px;
+}
+
+footer > div.foot > div.foot_items > div.foot_menu > div.menu3 {
+  width: 415px;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+footer > div.foot > div.foot_items > div.foot_menu > div.menu3 > p {
+  width: 100%;
+  height: 33px;
+  color: rgb(63, 64, 100);
+  font-size: 16px;
+  font-family: fa;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+footer > div.foot > div.foot_items > div.foot_menu > div.menu3 > a {
+  width: 100%;
+  height: 33px;
+  display: block;
+  color: rgb(129, 133, 139);
+  font-size: 14px;
+  font-family: fa;
+  font-weight: 300;
+  margin-bottom: 8px;
+}
+footer > div.foot > div.foot_items > div.foot_menu > div.menu4 {
+  width: 322px;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+footer > div.foot > div.foot_items > div.foot_menu > div.menu4 > div.menu4_top {
+  width: 100%;
+  height: 86px;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_menu
+  > div.menu4
+  > div.menu4_top
+  > h4 {
+  width: 100%;
+  height: 33px;
+  margin-bottom: 12px;
+  font-size: 16px;
+  font-family: fa;
+  font-weight: 700;
+  color: rgb(63, 64, 100);
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_menu
+  > div.menu4
+  > div.menu4_top
+  > div.apps {
+  width: 100%;
+  height: 40px;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_menu
+  > div.menu4
+  > div.menu4_top
+  > div.apps
+  > a {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  margin-left: 32px;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_menu
+  > div.menu4
+  > div.menu4_top
+  > div.apps
+  > a
+  > img {
+  width: 40px;
+  height: 40px;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_menu
+  > div.menu4
+  > div.menu4_bottom {
+  width: 100%;
+  height: 93px;
+  margin-top: 32px;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_menu
+  > div.menu4
+  > div.menu4_bottom
+  > h4 {
+  width: 100%;
+  height: 33px;
+  margin-bottom: 12px;
+  font-size: 15px;
+  font-family: fa;
+  font-weight: 700;
+  color: rgb(63, 64, 100);
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_menu
+  > div.menu4
+  > div.menu4_bottom
+  > div.email {
+  width: 100%;
+  height: 48px;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_menu
+  > div.menu4
+  > div.menu4_bottom
+  > div.email
+  > div.emial_bar {
+  width: 261px;
+  height: 48px;
+  display: inline-block;
+  vertical-align: top;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_menu
+  > div.menu4
+  > div.menu4_bottom
+  > div.email
+  > div.emial_bar
+  > input[type="email"] {
+  width: 261px;
+  height: 48px;
+  background-color: rgb(240, 240, 241);
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  padding: 2px 12px;
+  font-family: fa;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_menu
+  > div.menu4
+  > div.menu4_bottom
+  > div.email
+  > div.submit {
+  width: 52px;
+  height: 48px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: rgb(224, 224, 226);
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  padding: 2px 12px;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_menu
+  > div.menu4
+  > div.menu4_bottom
+  > div.email
+  > div.submit
+  > a {
+  color: white;
+  line-height: 50px;
+  font-size: 16px;
+  font-family: fa;
+}
+/* Start foot_app */
+footer > div.foot > div.foot_items > div.foot_apps {
+  width: 100%;
+  height: 76px;
+  margin-bottom: 26px;
+  padding: 8px 20px;
+  background-color: rgb(60, 75, 109);
+  border-radius: 8px;
+}
+footer > div.foot > div.foot_items > div.foot_apps > div.right {
+  width: 20%;
+  height: 44px;
+  display: inline-block;
+  vertical-align: middle;
+}
+footer > div.foot > div.foot_items > div.foot_apps > div.right > img {
+  width: 44px;
+  height: 44px;
+}
+footer > div.foot > div.foot_items > div.foot_apps > div.right > span {
+  font-size: 20px;
+  font-family: fa;
+  line-height: 44px;
+  margin-right: 8px;
+  vertical-align: top;
+  color: white;
+}
+footer > div.foot > div.foot_items > div.foot_apps > div.left {
+  width: 70%;
+  height: 60px;
+  display: inline-block;
+  vertical-align: middle;
+  align-items: center;
+  position: relative;
+  right: 10%;
+}
+footer > div.foot > div.foot_items > div.foot_apps > div.left > div.left_item {
+  width: 90%;
+  height: 60px;
+  vertical-align: middle;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_apps
+  > div.left
+  > div.left_item
+  > div.item1 {
+  width: 144px;
+  height: 44px;
+  position: absolute;
+  top: 8px;
+  right: 50%;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_apps
+  > div.left
+  > div.left_item
+  > div.item1
+  > a {
+  width: 144px;
+  height: 44px;
+  padding: 8px;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_apps
+  > div.left
+  > div.left_item
+  > div.item1
+  > a
+  > img {
+  width: 142px;
+  height: 44px;
+}
+
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_apps
+  > div.left
+  > div.left_item
+  > div.item2 {
+  width: 144px;
+  height: 44px;
+  position: absolute;
+  top: 8px;
+  right: 64%;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_apps
+  > div.left
+  > div.left_item
+  > div.item2
+  > a {
+  width: 144px;
+  height: 44px;
+  padding: 8px;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_apps
+  > div.left
+  > div.left_item
+  > div.item2
+  > a
+  > img {
+  width: 142px;
+  height: 44px;
+}
+
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_apps
+  > div.left
+  > div.left_item
+  > div.item3 {
+  width: 144px;
+  height: 44px;
+  position: absolute;
+  top: 8px;
+  right: 78%;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_apps
+  > div.left
+  > div.left_item
+  > div.item3
+  > a {
+  width: 144px;
+  height: 44px;
+  padding: 8px;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_apps
+  > div.left
+  > div.left_item
+  > div.item3
+  > a
+  > img {
+  width: 142px;
+  height: 44px;
+}
+footer > div.foot > div.foot_items > div.foot_apps > div.left > div.more {
+  width: 42px;
+  height: 46px;
+  position: absolute;
+  right: 95%;
+  top: 8px;
+  display: inline-block;
+  background-color: white;
+  border-radius: 5px;
+}
+footer > div.foot > div.foot_items > div.foot_apps > div.left > div.more > a {
+  width: 42px;
+  height: 46px;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.foot_apps
+  > div.left
+  > div.more
+  > a
+  > img {
+  width: 42px;
+  height: 46px;
+}
+/* Start certificate */
+footer > div.foot > div.foot_items > div.certif {
+  width: 100%;
+  height: 223px;
+  padding: 32px 0;
+  border-top: 0.6px solid rgb(240, 240, 241);
+}
+footer > div.foot > div.foot_items > div.certif > div.cer_item {
+  width: 74%;
+  height: 159px;
+  display: inline-block;
+}
+footer > div.foot > div.foot_items > div.certif > div.cer_item > div.cer {
+  width: 70%;
+  height: 80px;
+  display: inline-block;
+  overflow: hidden;
+}
+footer > div.foot > div.foot_items > div.certif > div.cer_item > div.cer > h1 {
+  font-size: 21px;
+  font-family: fa;
+  font-weight: 700;
+  color: rgb(98, 102, 109);
+}
+footer > div.foot > div.foot_items > div.certif > div.cer_item > div.cer > p {
+  font-size: 12px;
+  font-family: fa;
+  color: rgb(129, 133, 139);
+}
+footer > div.foot > div.foot_items > div.certif > div.cer_item > div.see_more {
+  width: 100px;
+  height: 40px;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.certif
+  > div.cer_item
+  > div.see_more
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: rgb(25, 191, 211);
+  vertical-align: middle;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.certif
+  > div.cer_item
+  > div.see_more
+  > img {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+}
+
+footer > div.foot > div.foot_items > div.certif > div.cer_left {
+  width: 25%;
+  height: 108px;
+  display: inline-block;
+}
+
+footer > div.foot > div.foot_items > div.certif > div.cer_left > div.clitem1 {
+  width: 108px;
+  height: 108px;
+  display: inline-block;
+  padding: 16px;
+  margin-right: 8px;
+  border: 0.6px solid rgb(240, 240, 241);
+  border-radius: 8px;
+}
+footer
+  > div.foot
+  > div.foot_items
+  > div.certif
+  > div.cer_left
+  > div.clitem1
+  > a
+  > img {
+  width: 75px;
+  height: 75px;
+}
+/* Start caption */
+footer > div.foot > div.foot_items > div.caption {
+  width: 100%;
+  height: 88px;
+  padding: 32px 0;
+  border-top: 0.6px solid rgb(240, 240, 241);
+  font-size: 10px;
+  font-family: fa;
+  text-align: center;
+  color: rgb(129, 133, 139);
+}
+/* Start digi foot */
+footer > div.foot > div.digi_foot {
+  width: 100%;
+  height: 170px;
+  background-color: rgb(240, 240, 241);
+}
+footer > div.foot > div.digi_foot > div.f1 {
+  width: 200px;
+  height: 80px;
+  display: inline-block;
+  padding: 0 20px;
+  border-bottom: 0.6px solid rgb(224, 224, 226);
+  border-left: 0.6px solid rgb(224, 224, 226);
+  position: relative;
+}
+footer > div.foot > div.digi_foot > div.f1 > a > img {
+  width: 107px;
+  height: 20px;
+  position: absolute;
+  top: calc(50% - 20px / 2);
+  right: calc(50% - 107px / 2);
+}
+footer > div.foot > div.digi_foot > div.f2 {
+  width: 200px;
+  height: 80px;
+  display: inline-block;
+  padding: 0 20px;
+  border-bottom: 0.6px solid rgb(224, 224, 226);
+  position: relative;
+}
+footer > div.foot > div.digi_foot > div.f2 > a > img {
+  width: 107px;
+  height: 20px;
+  position: absolute;
+  top: calc(50% - 20px / 2);
+  right: calc(50% - 107px / 2);
+}
+footer > div.foot > div.digi_foot > div.f3 {
+  width: 270px;
+  height: 80px;
+  display: inline-block;
+  padding: 0 20px;
+  border-left: 0.6px solid rgb(224, 224, 226);
+  position: relative;
+}
+footer > div.foot > div.digi_foot > div.f3 > a > img {
+  width: 107px;
+  height: 20px;
+  position: absolute;
+  top: calc(50% - 20px / 2);
+  right: calc(50% - 107px / 2);
+}
+footer > div.foot > div.digi_foot > div.f4 {
+  width: 270px;
+  height: 80px;
+  display: inline-block;
+  padding: 0 20px;
+  position: relative;
+}
+footer > div.foot > div.digi_foot > div.f4 > a > img {
+  width: 107px;
+  height: 20px;
+  position: absolute;
+  top: calc(50% - 20px / 2);
+  right: calc(50% - 107px / 2);
+}

@@ -1,0 +1,23 @@
+main>div.tablo{
+    width: 100%;
+    height: 207px;
+    padding: 0 160px 0 160px;
+    margin-top: 190px;
+}
+main>div.tablo>div.tablo_item{
+    width: 100%;
+    height: 100%;
+}
+main>div.tablo>div.tablo_item>div.tabimg{
+    width: 30%;
+    height: 100%;
+    border-radius: 8px;
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+main>div.tablo>div.tablo_item>div.tabimg>a>img{
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}

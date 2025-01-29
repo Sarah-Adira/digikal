@@ -1,0 +1,18 @@
+main > div.picture {
+    width: 100%;
+    height: 167px;
+    padding: 0 160px 0 160px;
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  div.picture > div.picture_item {
+    width: 100%;
+    height: 167px;
+    border-radius: 16px;
+  }
+  div.picture > div.picture_item >img {
+    width: 100%;
+    height: 167px;
+    border-radius: 16px;
+  }

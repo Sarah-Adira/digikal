@@ -1,0 +1,995 @@
+main > div.sailer {
+  width: 100%;
+  height: 811px;
+  padding: 0 160px 0 160px;
+  display: inline-block;
+  margin-top: 40px;
+}
+main > div.sailer > div.sailer_items {
+  width: 100%;
+  height: 811px;
+  padding: 0 12px;
+  align-items: center;
+  border-radius: 16px;
+  border: 0.6px solid rgb(224, 224, 226);
+}
+main > div.sailer > div.sailer_items > div.top {
+  width: 100%;
+  height: 76px;
+  padding: 16px 0;
+  margin-bottom: 8px;
+}
+main > div.sailer > div.sailer_items > div.top > div.center {
+  width: 400px;
+  height: 44px;
+  display: inline-block;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  right: calc(50% - 400px / 2);
+}
+main > div.sailer > div.sailer_items > div.top > div.center > div.svg {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+main > div.sailer > div.sailer_items > div.top > div.center > div.svg > img {
+  width: 24px;
+  height: 24px;
+}
+main > div.sailer > div.sailer_items > div.top > div.center > p {
+  display: inline-block;
+  font-size: 21px;
+  font-weight: 500;
+  font-family: fa;
+  vertical-align: middle;
+}
+main > div.sailer > div.sailer_items > div.bottom {
+  width: 100%;
+  height: 726px;
+}
+main > div.sailer > div.sailer_items > div.bottom > div.row_one {
+  width: 100%;
+  height: 242px;
+}
+main > div.sailer > div.sailer_items > div.bottom > div.row_one > div.product {
+  width: 210px;
+  height: 242px;
+  display: inline-block;
+  padding: 8px 12px;
+  border-left: 0.6px solid rgb(240, 240, 241);
+  border-bottom: 0.6px solid rgb(240, 240, 241);
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product
+  > a {
+  width: 218px;
+  height: 242px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product
+  > a
+  > div.pro_pic {
+  width: 201px;
+  height: 154px;
+  object-fit: cover;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product
+  > a
+  > div.pro_pic
+  > img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  position: relative;
+  right: calc(50% - 150px / 2);
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product
+  > a
+  > div.pro_price {
+  width: 100%;
+  height: 20px;
+  display: inline-block;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product
+  > a
+  > div.pro_price
+  > div.pro_off {
+  width: 34px;
+  height: 20px;
+  display: inline-block;
+  background-color: red;
+  padding: 0px 4px;
+  border-radius: 16px;
+  text-align: center;
+  align-items: center;
+  vertical-align: middle;
+  position: relative;
+  left: -20px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product
+  > a
+  > div.pro_price
+  > div.pro_off
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: white;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product
+  > a
+  > div.pro_price
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: black;
+  position: relative;
+  right: 70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product
+  > a
+  > div.pro_price
+  > img {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  left: -70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product
+  > a
+  > div.pro_bottom {
+  width: 100%;
+  height: 20px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product
+  > a
+  > div.pro_bottom
+  > span {
+  width: 100%;
+  height: 20px;
+  font-size: 12px;
+  color: rgb(112, 112, 112);
+  text-decoration: line-through;
+  margin-right: 50px;
+  position: relative;
+  left: -70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product_1 {
+  width: 210px;
+  height: 242px;
+  display: inline-block;
+  padding: 8px 12px;
+  border-bottom: 0.6px solid rgb(240, 240, 241);
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product_1
+  > a {
+  width: 218px;
+  height: 242px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product_1
+  > a
+  > div.pro_pic {
+  width: 201px;
+  height: 154px;
+  object-fit: cover;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product_1
+  > a
+  > div.pro_pic
+  > img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  position: relative;
+  right: calc(50% - 150px / 2);
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product_1
+  > a
+  > div.pro_price {
+  width: 100%;
+  height: 20px;
+  display: inline-block;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product_1
+  > a
+  > div.pro_price
+  > div.pro_off {
+  width: 34px;
+  height: 20px;
+  display: inline-block;
+  background-color: red;
+  padding: 0px 4px;
+  border-radius: 16px;
+  text-align: center;
+  align-items: center;
+  vertical-align: middle;
+  position: relative;
+  left: -20px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product_1
+  > a
+  > div.pro_price
+  > div.pro_off
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: white;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product_1
+  > a
+  > div.pro_price
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: black;
+  position: relative;
+  right: 70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product_1
+  > a
+  > div.pro_price
+  > img {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  left: -70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product_1
+  > a
+  > div.pro_bottom {
+  width: 100%;
+  height: 20px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_one
+  > div.product_1
+  > a
+  > div.pro_bottom
+  > span {
+  width: 100%;
+  height: 20px;
+  font-size: 12px;
+  color: rgb(112, 112, 112);
+  text-decoration: line-through;
+  margin-right: 50px;
+  position: relative;
+  left: -70px;
+}
+
+/* Start Row Two */
+main > div.sailer > div.sailer_items > div.bottom > div.row_Two {
+  width: 100%;
+  height: 242px;
+}
+main > div.sailer > div.sailer_items > div.bottom > div.row_Two > div.product {
+  width: 210px;
+  height: 242px;
+  display: inline-block;
+  padding: 8px 12px;
+  border-left: 0.6px solid rgb(240, 240, 241);
+  border-bottom: 0.6px solid rgb(240, 240, 241);
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product
+  > a {
+  width: 218px;
+  height: 242px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product
+  > a
+  > div.pro_pic {
+  width: 201px;
+  height: 154px;
+  object-fit: cover;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product
+  > a
+  > div.pro_pic
+  > img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  position: relative;
+  right: calc(50% - 150px / 2);
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product
+  > a
+  > div.pro_price {
+  width: 100%;
+  height: 20px;
+  display: inline-block;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product
+  > a
+  > div.pro_price
+  > div.pro_off {
+  width: 34px;
+  height: 20px;
+  display: inline-block;
+  background-color: red;
+  padding: 0px 4px;
+  border-radius: 16px;
+  text-align: center;
+  align-items: center;
+  vertical-align: middle;
+  position: relative;
+  left: -20px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product
+  > a
+  > div.pro_price
+  > div.pro_off
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: white;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product
+  > a
+  > div.pro_price
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: black;
+  position: relative;
+  right: 70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product
+  > a
+  > div.pro_price
+  > img {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  left: -70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product
+  > a
+  > div.pro_bottom {
+  width: 100%;
+  height: 20px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product
+  > a
+  > div.pro_bottom
+  > span {
+  width: 100%;
+  height: 20px;
+  font-size: 12px;
+  color: rgb(112, 112, 112);
+  text-decoration: line-through;
+  margin-right: 50px;
+  position: relative;
+  left: -70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product_1 {
+  width: 210px;
+  height: 242px;
+  display: inline-block;
+  padding: 8px 12px;
+  border-bottom: 0.6px solid rgb(240, 240, 241);
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product_1
+  > a {
+  width: 218px;
+  height: 242px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product_1
+  > a
+  > div.pro_pic {
+  width: 201px;
+  height: 154px;
+  object-fit: cover;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product_1
+  > a
+  > div.pro_pic
+  > img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  position: relative;
+  right: calc(50% - 150px / 2);
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product_1
+  > a
+  > div.pro_price {
+  width: 100%;
+  height: 20px;
+  display: inline-block;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product_1
+  > a
+  > div.pro_price
+  > div.pro_off {
+  width: 34px;
+  height: 20px;
+  display: inline-block;
+  background-color: red;
+  padding: 0px 4px;
+  border-radius: 16px;
+  text-align: center;
+  align-items: center;
+  vertical-align: middle;
+  position: relative;
+  left: -20px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product_1
+  > a
+  > div.pro_price
+  > div.pro_off
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: white;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product_1
+  > a
+  > div.pro_price
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: black;
+  position: relative;
+  right: 70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product_1
+  > a
+  > div.pro_price
+  > img {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  left: -70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product_1
+  > a
+  > div.pro_bottom {
+  width: 100%;
+  height: 20px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_Two
+  > div.product_1
+  > a
+  > div.pro_bottom
+  > span {
+  width: 100%;
+  height: 20px;
+  font-size: 12px;
+  color: rgb(112, 112, 112);
+  text-decoration: line-through;
+  margin-right: 50px;
+  position: relative;
+  left: -70px;
+}
+
+/* Start Row Three */
+main > div.sailer > div.sailer_items > div.bottom > div.row_three {
+  width: 100%;
+  height: 242px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product {
+  width: 210px;
+  height: 242px;
+  display: inline-block;
+  padding: 8px 12px;
+  border-left: 0.6px solid rgb(240, 240, 241);
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product
+  > a {
+  width: 218px;
+  height: 242px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product
+  > a
+  > div.pro_pic {
+  width: 201px;
+  height: 154px;
+  object-fit: cover;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product
+  > a
+  > div.pro_pic
+  > img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  position: relative;
+  right: calc(50% - 150px / 2);
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product
+  > a
+  > div.pro_price {
+  width: 100%;
+  height: 20px;
+  display: inline-block;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product
+  > a
+  > div.pro_price
+  > div.pro_off {
+  width: 34px;
+  height: 20px;
+  display: inline-block;
+  background-color: red;
+  padding: 0px 4px;
+  border-radius: 16px;
+  text-align: center;
+  align-items: center;
+  vertical-align: middle;
+  position: relative;
+  left: -20px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product
+  > a
+  > div.pro_price
+  > div.pro_off
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: white;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product
+  > a
+  > div.pro_price
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: black;
+  position: relative;
+  right: 70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product
+  > a
+  > div.pro_price
+  > img {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  left: -70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product
+  > a
+  > div.pro_bottom {
+  width: 100%;
+  height: 20px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product
+  > a
+  > div.pro_bottom
+  > span {
+  width: 100%;
+  height: 20px;
+  font-size: 12px;
+  color: rgb(112, 112, 112);
+  text-decoration: line-through;
+  margin-right: 50px;
+  position: relative;
+  left: -70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product_1 {
+  width: 210px;
+  height: 242px;
+  display: inline-block;
+  padding: 8px 12px;
+  border-bottom: 0.6px solid rgb(240, 240, 241);
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product_1
+  > a {
+  width: 218px;
+  height: 242px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product_1
+  > a
+  > div.pro_pic {
+  width: 201px;
+  height: 154px;
+  object-fit: cover;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product_1
+  > a
+  > div.pro_pic
+  > img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  position: relative;
+  right: calc(50% - 150px / 2);
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product_1
+  > a
+  > div.pro_price {
+  width: 100%;
+  height: 20px;
+  display: inline-block;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product_1
+  > a
+  > div.pro_price
+  > div.pro_off {
+  width: 34px;
+  height: 20px;
+  display: inline-block;
+  background-color: red;
+  padding: 0px 4px;
+  border-radius: 16px;
+  text-align: center;
+  align-items: center;
+  vertical-align: middle;
+  position: relative;
+  left: -20px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product_1
+  > a
+  > div.pro_price
+  > div.pro_off
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: white;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product_1
+  > a
+  > div.pro_price
+  > span {
+  font-size: 12px;
+  font-family: fa;
+  color: black;
+  position: relative;
+  right: 70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product_1
+  > a
+  > div.pro_price
+  > img {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  left: -70px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product_1
+  > a
+  > div.pro_bottom {
+  width: 100%;
+  height: 20px;
+}
+main
+  > div.sailer
+  > div.sailer_items
+  > div.bottom
+  > div.row_three
+  > div.product_1
+  > a
+  > div.pro_bottom
+  > span {
+  width: 100%;
+  height: 20px;
+  font-size: 12px;
+  color: rgb(112, 112, 112);
+  text-decoration: line-through;
+  margin-right: 50px;
+  position: relative;
+  left: -70px;
+}

@@ -1,0 +1,19 @@
+main>div.fixed_one{
+    width: 130px;
+    height: 50px;
+    position: fixed;
+    top: 90%;
+    right: 90%;
+    background-color: green;
+    border-radius: 28px;
+    display: inline-block;
+    z-index: 99;
+}
+main>div.fixed_one>a>span{
+    font-size: 18px;
+    font-family: fa;
+    font-weight: 700;
+    color: white;
+    line-height: 50px;
+    margin-right: 5px;
+}

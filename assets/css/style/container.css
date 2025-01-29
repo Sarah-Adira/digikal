@@ -1,0 +1,67 @@
+main>section.Container{
+    width: 100%;
+    height: 155px;
+    padding: 0 160px 0 160px;
+    padding-top: 20px;
+    /* background-color: red; */
+    text-align: center;
+}
+section.Container>div.container_item{
+    width: 80px;
+    height: 140px;
+    display: inline-block;
+    margin-left: 40px;
+    vertical-align: top;
+}
+section.Container>div.container_item>a{
+    width: 100%;
+    height: 140px;
+    display: block;
+    border-radius: 50%;
+}
+section.Container>div.container_item>a>img{
+    width: 52px;
+    height: 52px;
+    object-fit: cover;
+    border-radius: inherit;
+}
+section.Container>div.container_item>a>span{
+    width: inherit;
+    margin-top: 8px;
+    font-family: irenyekan;
+    font-size: 14px;
+    color: black;
+    display: inline-block;
+}
+section.Container>div.container_item1{
+    width: 80px;
+    height: 140px;
+    border-radius: 50%;
+    align-items: center;
+    display: inline-block;
+}
+section.Container>div.container_item1>a{
+    width: 100%;
+    height: 140px;
+    display: block;
+    border-radius: 50%;
+}
+section.Container>div.container_item1>a>div.more{
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background-color: #d1cbcb;
+}
+svg{
+    line-height: 52px;
+    margin-top: 10px;
+}
+section.Container>div.container_item1>a>span{
+    width: inherit;
+    margin-top: 10px;
+    padding-left: 20px;
+    font-family: irenyekan;
+    font-size: 14px;
+    color: black;
+    display: inline-block;
+}

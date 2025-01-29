@@ -1,0 +1,17 @@
+main > div.dastebandi {
+    width: 1280;
+    height: 60px;
+    margin: 40px 188px 16px 188px;
+    padding: 0 8px;
+  }
+  main > div.dastebandi > div.daste_items {
+    width: inherit;
+    height: inherit;
+    text-align: center;
+  }
+  main > div.dastebandi > div.daste_items>h2{
+    font-size: 21px;
+    font-family: fa;
+    font-weight: 700;
+    line-height: 60px;
+  }
