@@ -805,7 +805,7 @@ header
   > a {
   color: red;
 }
-li>a>svg{
+ul>li>a>svg{
   line-height: 40px;
-  vertical-align: middle;
+  vertical-align: top;
 }
